@@ -5,5 +5,4 @@ Online shopping is a form of Electronic Commerce, Which allows consumers to dire
 * [Web-Page](https://shahzaibfardeen.github.io/Syberstore_Shoppx/)
 
 ### The Way The Web Page Look 
-
 ![Web_Page_Image](Project.png)
